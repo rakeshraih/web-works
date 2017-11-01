@@ -17,3 +17,8 @@
     font-weight: bold;
     font-size: 18px;
 }
+
+.in-progress{
+    font-size: 12px;
+    padding-left: 5px;
+}
